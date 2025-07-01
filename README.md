@@ -1,3 +1,5 @@
+.env file sent separately
+
 uv 
 Bash CMDs 
 1. uv init
@@ -7,7 +9,7 @@ Bash CMDs
 
 
 Alternate 
-Bash 
+Bash CMDS 
 
 1. python -m venv .venv
 2. .venv\Scripts\activate
