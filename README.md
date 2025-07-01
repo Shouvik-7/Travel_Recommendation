@@ -36,3 +36,7 @@ streamlit run app.py
 
 
 Copy glue_script to AWS Glue python Script for Loading data from S3 to Glue Data Catalog
+
+
+
+# DEMO Results in results folder
